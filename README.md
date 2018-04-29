@@ -1,1 +1,1 @@
-# Minted
+# Minted I am Rich app
